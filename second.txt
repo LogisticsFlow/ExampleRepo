@@ -1,0 +1,10 @@
+Doing my own thing here
+//Why would we ever have blank lines?
+//Seriously, type something
+//more comments
+//blah blah
+thing 1
+line 7
+line 8
+line 9
+Here's line 10 in my style
